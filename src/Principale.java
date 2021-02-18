@@ -16,7 +16,6 @@ public class Principale {
         ArrayList<String> userInfo = new ArrayList<>();
 
 
-
             msg = commandes.lireEcran();
             if(msg.equals("client")) {
                 //FAIS SI LE LOGIN EST OK
